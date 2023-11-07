@@ -52,6 +52,7 @@ namespace Presentacion
         {
             dgvArticulo.Columns["ImagenUrl"].Visible = false;
             dgvArticulo.Columns["Id"].Visible = false;
+            dgvArticulo.Columns["Precio"].DefaultCellStyle.Format = "0,00";
         }
         public void cargarFiltro()
         {

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo de dominio", "Modelo de dominio\Modelo de dominio.csproj", "{F1F9AC67-AAB3-4E9C-A099-BE4BF788CD3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F9AC67-AAB3-4E9C-A099-BE4BF788CD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F9AC67-AAB3-4E9C-A099-BE4BF788CD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F9AC67-AAB3-4E9C-A099-BE4BF788CD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F9AC67-AAB3-4E9C-A099-BE4BF788CD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854E4BCB-CBAA-41CF-86DE-0D97FFA50B41}
+	EndGlobalSection
+EndGlobal

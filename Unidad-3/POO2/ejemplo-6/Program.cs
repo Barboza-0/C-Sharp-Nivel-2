@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ejemplo_6
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Interfaces..
+            List<Ladrador> ladradores = new List<Ladrador>();
+            ladradores.Add(new Perro());
+            Console.ReadKey();
+        }
+    }
+}
